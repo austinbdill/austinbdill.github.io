@@ -12,7 +12,7 @@ profile:
     <p>Apartment 606</p>
     <p>Pittsburgh, PA 15213</p>
 
-news: false
+news: true
 social: true
 ---
 
